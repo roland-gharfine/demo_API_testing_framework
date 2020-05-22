@@ -1,0 +1,5 @@
+Test,Season,Format,Status_code,StatusId,Count,Status,ConstructorId,URL,Constructor,Nationality
+Req01_TC01,2005,JSON,200,1,148,Finished,,,,
+Req01_TC02,1949,JSON,200,,,,,,,
+Req02_TC01,,,200,,,,mercedes,http://en.wikipedia.org/wiki/Mercedes-Benz_in_Formula_One,Mercedes,German
+Req02_TC02,,,200,,,,,,,
